@@ -5,6 +5,7 @@
 
 int solution(int A[], int N)
 {
+    //add a comment for git 
     // write your code in C99 (gcc 6.2.0)
     int missing = 0;
     int max = 0;
